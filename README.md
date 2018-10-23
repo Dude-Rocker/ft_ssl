@@ -2,7 +2,14 @@
 ## This project includes 3 school 42 projects of Encryption and Security
 ## Here you need to implement the behavior of the original openssl
 ### In [the first project](https://github.com/Dude-Rocker/resources/blob/master/ft_ssl/ft_ssl_md5.en.pdf) (Cryptographic hashing algorithms) it is necessary to implement hash functions such as md5, sha256, etc.
+few examples:
 
+![](https://github.com/Dude-Rocker/resources/blob/master/ft_ssl/exml.png)
+
+debug mode:
+
+![](https://github.com/Dude-Rocker/resources/blob/master/ft_ssl/sbs1.png)
+![](https://github.com/Dude-Rocker/resources/blob/master/ft_ssl/sbs2.png)
 progress: complete
 
 ![](https://github.com/Dude-Rocker/resources/blob/master/sucs125.png)
